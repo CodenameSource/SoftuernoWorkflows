@@ -1,0 +1,9 @@
+{
+  "preset": "psr12",
+  "paths": [
+    "app",
+    "config",
+    "database",
+    "tests"
+  ]
+}
