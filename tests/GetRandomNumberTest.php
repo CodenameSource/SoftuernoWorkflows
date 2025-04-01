@@ -2,7 +2,6 @@
 
 use PHPUnit\Framework\TestCase;
 
-
 class GetRandomNumberTest extends TestCase
 {
     public function testRandomNumber()
